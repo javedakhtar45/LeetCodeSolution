@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2806-account-balance-after-rounded-purchase](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Polygons
 |  |
 | ------- |
