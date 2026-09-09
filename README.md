@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0258-add-digits) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
