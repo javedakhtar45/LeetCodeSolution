@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
+| [3516-find-closest-person](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
