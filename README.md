@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0485-max-consecutive-ones) |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0414-third-maximum-number) |
 | [3024-type-of-triangle](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Polygons
