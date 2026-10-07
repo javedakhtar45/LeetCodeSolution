@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/javedakhtar45/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
